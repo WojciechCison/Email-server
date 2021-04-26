@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMAIL System", "EMAIL System\EMAIL System.csproj", "{E09CF822-FC41-4FC2-983D-C0E39FDE27FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FORMS", "FORMS", "{7A2BFA99-B5A1-40F5-90EF-F102D66E0327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09CF822-FC41-4FC2-983D-C0E39FDE27FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09CF822-FC41-4FC2-983D-C0E39FDE27FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09CF822-FC41-4FC2-983D-C0E39FDE27FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09CF822-FC41-4FC2-983D-C0E39FDE27FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF73DF0-D03F-4C66-A2B5-0A7DBCFBDC0F}
+	EndGlobalSection
+EndGlobal

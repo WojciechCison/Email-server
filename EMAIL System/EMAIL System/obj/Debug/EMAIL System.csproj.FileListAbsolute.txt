@@ -1,0 +1,10 @@
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\bin\Debug\EMAIL System.exe.config
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\bin\Debug\EMAIL System.exe
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\bin\Debug\EMAIL System.pdb
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL System.csprojAssemblyReference.cache
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL_System.Form1.resources
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL_System.Properties.Resources.resources
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL System.csproj.GenerateResource.cache
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL System.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL System.exe
+C:\Users\Wojtek\source\repos\EMAIL System\EMAIL System\obj\Debug\EMAIL System.pdb
